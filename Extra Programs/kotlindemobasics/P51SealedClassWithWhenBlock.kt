@@ -26,6 +26,7 @@ fun display(fruit: Fruit){
         is Pomegranate -> println("${fruit.x} is good for vitamin d")
     }
 }
+
 fun main()
 {
     // Objects of different subclasses created

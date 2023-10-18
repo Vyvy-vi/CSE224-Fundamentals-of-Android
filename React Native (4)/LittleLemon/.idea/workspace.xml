@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3157bba1-9453-4dff-b23d-ff00168ad4af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Create the User Interface in Android Studio (1)/W5/Little Lemon Food Menu fixed/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ca/ca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ca/cities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ca1/ca1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Advanced Programming in Kotlin (2)/W4/LittleLemonMenu/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Extra Programs/kotlindemobasics/P51SealedClassWithWhenBlock.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Extra Programs/kotlindemobasics/P51SealedClassWithWhenBlock.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WwpaLdvsu3SfOWZZ6nmYagdYxB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/vy/repos/CSE224-Fundamentals-of-Android/React Native (4)/LittleLemon",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3157bba1-9453-4dff-b23d-ff00168ad4af" name="Changes" comment="" />
+      <created>1697653558748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697653558748</updated>
+    </task>
+    <servers />
+  </component>
+</project>
