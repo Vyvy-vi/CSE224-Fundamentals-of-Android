@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.runtime.Composable
@@ -26,6 +27,7 @@ class MainActivity : ComponentActivity() {
     @Composable
     fun InitUI() {
         val products by productsState.collectAsState()
+        Toast.makeText(this, "rendering products...", Toast.LENGTH_SHORT).show()
         ProductsGrid(products = products, this::startProductActivity)
     }
 

@@ -42,7 +42,9 @@ fun ProductsGrid(products: Products, startProductActivity: (ProductItem) -> Unit
                             startProductActivity(productItem)
                         }
                     )
-                    Text(text = productItem.title)
+                    Text(text = productItem.title, modifier = Modifier.clickable {
+                        startProductActivity(productItem)
+                    })
                 }
             }
         )
